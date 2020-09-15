@@ -1,0 +1,8 @@
+prefix=/home/assetrayev/catkin_ws/devel
+
+Name: vamonos
+Description: Description of vamonos
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
